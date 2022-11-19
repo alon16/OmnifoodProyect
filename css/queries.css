@@ -238,6 +238,9 @@
     .cta-text-box{
         padding: 3.2rem;
     }
+    .feature{
+        text-align:center;
+    }
 }
 /* FIXIN SAFARI FLEXBOX GAP */
 .no-flexbox-gap .main-nav-list li:not(:last-child) {
